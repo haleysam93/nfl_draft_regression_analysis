@@ -1,0 +1,54 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:             pick_score   R-squared:                       0.418
+Model:                            OLS   Adj. R-squared:                  0.396
+Method:                 Least Squares   F-statistic:                     18.94
+Date:                Mon, 04 May 2020   Prob (F-statistic):           2.24e-66
+Time:                        19:55:20   Log-Likelihood:                -851.65
+No. Observations:                 741   AIC:                             1759.
+Df Residuals:                     713   BIC:                             1888.
+Df Model:                          27                                         
+Covariance Type:            nonrobust                                         
+===========================================================================================
+                              coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------------------
+const                      -0.2116      0.058     -3.647      0.000      -0.326      -0.098
+height_inches              -0.0065      0.044     -0.148      0.882      -0.092       0.079
+weight                      0.1292      0.044      2.962      0.003       0.044       0.215
+forty                      -0.3543      0.033    -10.701      0.000      -0.419      -0.289
+vertical                    0.0692      0.037      1.859      0.063      -0.004       0.142
+bench                       0.0511      0.031      1.663      0.097      -0.009       0.112
+broad                       0.0379      0.038      0.996      0.320      -0.037       0.113
+threecone                  -0.0343      0.033     -1.041      0.298      -0.099       0.030
+shuttle                    -0.0307      0.033     -0.920      0.358      -0.096       0.035
+total_games                 0.0568      0.030      1.874      0.061      -0.003       0.116
+receiving.recs_per_game     0.2562      0.054      4.770      0.000       0.151       0.362
+receiving.tds_per_game      0.2709      0.051      5.265      0.000       0.170       0.372
+receiving.yds_per_rec       0.1341      0.037      3.658      0.000       0.062       0.206
+ppg_off                    -0.0928      0.042     -2.200      0.028      -0.176      -0.010
+ppg_def                    -0.0934      0.042     -2.229      0.026      -0.176      -0.011
+ap_rank_score               0.1625      0.064      2.534      0.011       0.037       0.288
+sos                         0.1096      0.053      2.064      0.039       0.005       0.214
+conf_ACC                    0.1529      0.092      1.669      0.096      -0.027       0.333
+conf_Big 12                 0.0366      0.098      0.374      0.709      -0.156       0.229
+conf_Big Ten                0.1770      0.092      1.929      0.054      -0.003       0.357
+conf_CUSA                  -0.0688      0.136     -0.507      0.612      -0.335       0.198
+conf_Ind                   -0.2922      0.188     -1.555      0.120      -0.661       0.077
+conf_MAC                   -0.1929      0.155     -1.248      0.213      -0.496       0.111
+conf_MWC                   -0.1889      0.138     -1.369      0.171      -0.460       0.082
+conf_Other                 -0.0594      0.094     -0.633      0.527      -0.244       0.125
+conf_Pac-10                 0.0074      0.100      0.074      0.941      -0.189       0.204
+conf_SEC                    0.1057      0.095      1.117      0.264      -0.080       0.291
+conf_Sun Belt              -0.0634      0.293     -0.216      0.829      -0.639       0.513
+conf_WAC                    0.1745      0.142      1.226      0.221      -0.105       0.454
+==============================================================================
+Omnibus:                        9.838   Durbin-Watson:                   1.856
+Prob(Omnibus):                  0.007   Jarque-Bera (JB):                7.555
+Skew:                          -0.146   Prob(JB):                       0.0229
+Kurtosis:                       2.601   Cond. No.                     1.21e+16
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 1.29e-29. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.

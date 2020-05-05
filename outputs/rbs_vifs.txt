@@ -1,0 +1,32 @@
+                 Variable       VIF
+            height_inches  1.754153
+                   weight  2.144713
+                    forty  1.520705
+                 vertical  1.735633
+                    bench  1.220205
+                    broad  1.927488
+                threecone  1.370408
+                  shuttle  1.474916
+              total_games  1.179998
+    rushing.atts_per_game  1.283199
+    rushing.recs_per_game  1.222669
+ rushing.rush_yds_per_att  1.696943
+ rushing.rush_tds_per_att  1.647034
+  rushing.rec_yds_per_rec  1.770134
+  rushing.rec_tds_per_rec  1.780110
+                  ppg_off  2.229415
+                  ppg_def  2.021773
+            ap_rank_score  3.369591
+                      sos  3.688547
+                 conf_ACC  1.267920
+              conf_Big 12  1.291647
+             conf_Big Ten  1.320054
+                conf_CUSA  1.456377
+                 conf_Ind  1.145844
+                 conf_MAC  1.711794
+                 conf_MWC  1.399547
+               conf_Other  1.270657
+              conf_Pac-10  1.662529
+                 conf_SEC  1.887661
+            conf_Sun Belt  1.351005
+                 conf_WAC  1.319088

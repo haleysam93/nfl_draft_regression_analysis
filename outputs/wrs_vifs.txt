@@ -1,0 +1,29 @@
+                Variable       VIF
+           height_inches  2.322556
+                  weight  2.325200
+                   forty  1.339826
+                vertical  1.694261
+                   bench  1.156854
+                   broad  1.772597
+               threecone  1.326526
+                 shuttle  1.359434
+             total_games  1.123769
+ receiving.recs_per_game  3.526059
+  receiving.tds_per_game  3.237074
+   receiving.yds_per_rec  1.643317
+                 ppg_off  2.175192
+                 ppg_def  2.145158
+           ap_rank_score  3.778234
+                     sos  3.447485
+                conf_ACC  1.394956
+             conf_Big 12  1.396538
+            conf_Big Ten  1.324265
+               conf_CUSA  1.406476
+                conf_Ind  1.077851
+                conf_MAC  1.611877
+                conf_MWC  1.265845
+              conf_Other  1.231376
+             conf_Pac-10  1.438175
+                conf_SEC  1.645793
+           conf_Sun Belt  1.225084
+                conf_WAC  1.388232
