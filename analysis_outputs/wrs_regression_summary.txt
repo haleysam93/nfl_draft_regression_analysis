@@ -3,8 +3,8 @@
 Dep. Variable:             pick_score   R-squared:                       0.418
 Model:                            OLS   Adj. R-squared:                  0.396
 Method:                 Least Squares   F-statistic:                     18.94
-Date:                Mon, 04 May 2020   Prob (F-statistic):           2.24e-66
-Time:                        19:55:20   Log-Likelihood:                -851.65
+Date:                Fri, 08 May 2020   Prob (F-statistic):           2.24e-66
+Time:                        12:00:19   Log-Likelihood:                -851.65
 No. Observations:                 741   AIC:                             1759.
 Df Residuals:                     713   BIC:                             1888.
 Df Model:                          27                                         
